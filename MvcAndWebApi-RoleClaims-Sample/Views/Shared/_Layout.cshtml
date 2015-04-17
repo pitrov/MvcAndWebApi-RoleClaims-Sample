@@ -13,7 +13,9 @@
                     <li>
                         Hello, @User.Identity.Name!
                     </li>
-
+                    <li>
+                        Roles: @ViewData["appRoles"]
+                    </li>
                     <li>
                         @Html.ActionLink("Sign out", "SignOut", "Account")
                     </li>

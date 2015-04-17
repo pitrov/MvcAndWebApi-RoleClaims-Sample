@@ -4,7 +4,7 @@ This sample shows how to build a .Net web application which host both MVC and We
 Sample uses OpenID Connect to sign-in users from a single Azure Active Directory tenant, 
 using the ASP.Net OpenID Connect OWIN middleware.
 
-This sample based on [](https://github.com/AzureADSamples/WebApp-OpenIDConnect-DotNet)
+This sample based on [AzureADSamples/WebApp-OpenIDConnect-DotNet](https://github.com/AzureADSamples/WebApp-OpenIDConnect-DotNet)
 
 Web Api request detection solution from article [Using cookie authentication middleware with Web API and 401 response codes](http://brockallen.com/2013/10/27/using-cookie-authentication-middleware-with-web-api-and-401-response-codes/)
 

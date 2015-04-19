@@ -1,6 +1,6 @@
 # MvcAndWebApi-RoleClaims-Sample
 
-This sample shows how to build a .Net web application which host both MVC and Web Api. 
+This sample shows how to build a .Net web application which hosts both MVC and Web Api. 
 Sample uses OpenID Connect to sign-in users from a single Azure Active Directory tenant, 
 using the ASP.Net OpenID Connect OWIN middleware.
 
